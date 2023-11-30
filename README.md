@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and aspiring programmer
 -------------------------------
 
-🧑‍🎓Hello, I'm Tanishq – a tech-driven problem solver, coding enthusiast, and innovative thinker. 🧠Currently pursuing computer science at McMaster. 🤞My ambitions lie in creating a positive impact through continuous learning and innovative endeavours.
+💫Hello, I'm Tanishq – a tech-driven problem solver, coding enthusiast, and innovative thinker. 
+🧑‍🎓Currently pursuing computer science at McMaster. 
+🤞My ambitions lie in creating a positive impact through continuous learning and innovative endeavours.
 
 * 🌍  I'm based in Ontario
 * ✉️  You can contact me at [tanishqchahalapp@gmail.com](mailto:tanishqchahalapp@gmail.com)
